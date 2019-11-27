@@ -8,7 +8,7 @@ Crawler Application is a simple crawler application (Console Application) allows
 
 3) you should enter a valid website link for example : "https://www.linkedin.com"
 
-# Start the CrawlerApp application
+# Use of CrawlerApp application
 1) open the command line and go to CrawlerApp folder, after that run the symfony server using this command :             
 php bin/console server:run
 
